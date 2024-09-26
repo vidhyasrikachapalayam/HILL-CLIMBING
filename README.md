@@ -40,8 +40,9 @@ Feedback is provided in terms of heuristic function
 
 <hr>
 <h3>PROGRAM</h3>
- ```
- #include <stdio.h>
+ 
+```
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
